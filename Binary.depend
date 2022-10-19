@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654521896 source:d:\semester 2\algoritma dan struktur data\praktikum\finale\binary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<unistd.h>
+	<sysinfoapi.h>
+
